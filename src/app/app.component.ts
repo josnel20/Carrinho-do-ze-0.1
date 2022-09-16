@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Bem vindo - Corros de 1ª';
 }
+
+
